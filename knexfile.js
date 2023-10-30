@@ -4,7 +4,7 @@ module.exports = {
     host: "instockbackend.cdw8he38lb8c.us-east-2.rds.amazonaws.com",
     user: "admin",
     password: "Manafluid1!homebacon1",
-    database: "instockbackendAWS",
+    database: "instockbackend",
     charset: "utf8",
   },
 };
