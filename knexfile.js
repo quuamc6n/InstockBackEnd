@@ -1,10 +1,10 @@
 module.exports = {
   client: "mysql2",
   connection: {
-    host: "127.0.0.1",
-    user: "root",
-    password: "rootroot",
-    database: "instock",
+    host: "instockbackend.cdw8he38lb8c.us-east-2.rds.amazonaws.com",
+    user: "admin",
+    password: "Manafluid1!homebacon1",
+    database: "instockbackendAWS",
     charset: "utf8",
   },
 };
